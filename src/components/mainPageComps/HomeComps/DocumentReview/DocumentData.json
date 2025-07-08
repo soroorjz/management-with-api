@@ -1,0 +1,4373 @@
+[
+  {
+    "examTitle": "آزمون به کارگیری نیرو در شرکت‌های طرف قرارداد شرکت برق منطقه‌ای اصفهان",
+    "organizations": [
+      {
+        "organizationName": "وزارت نیرو",
+        "jobs": [
+          {
+            "jobName": "کارشناس برق قدرت",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "دارای حداقل 3 سال سابقه کار در حوزه برق",
+              "jobLocation": "اصفهان، مرکز شهر",
+              "gender": "مرد/زن",
+              "capacity": 10,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "مهندسی برق",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 15,
+              "notReviewed": 15,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "علی",
+                "lastName": "رضایی",
+                "fatherName": "حسین",
+                "nationalId": "1234567890",
+                "examScore": 85,
+                "rank": 1,
+                "age": 28,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی برق",
+                "phoneNumber": "09123456789",
+                "address": "اصفهان، خیابان آزادی، کوچه 10",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m2.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m2.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "سارا",
+                "lastName": "محمدی",
+                "fatherName": "محمد",
+                "nationalId": "0987654321",
+                "examScore": 80,
+                "rank": 2,
+                "age": 26,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی برق",
+                "phoneNumber": "09129876543",
+                "address": "اصفهان، خیابان انقلاب، کوچه 5",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f2.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f1.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "کارشناس امور اداری",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "آشنایی با قوانین کار و تامین اجتماعی",
+              "jobLocation": "اصفهان، منطقه صنعتی امیرکبیر",
+              "gender": "مرد/زن",
+              "capacity": 5,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "مدیریت یا رشته‌های مرتبط",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 8,
+              "notReviewed": 8,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "الهام",
+                "lastName": "حیدری",
+                "fatherName": "ناصر",
+                "nationalId": "3344556677",
+                "examScore": 88.0,
+                "rank": 1,
+                "age": 31,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مدیریت منابع انسانی",
+                "phoneNumber": "09139998877",
+                "address": "اصفهان، خیابان باهنر، کوچه 7",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f4.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "شرکت توزیع برق اصفهان",
+        "jobs": [
+          {
+            "jobName": "تکنسین تعمیرات شبکه",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "دارای گواهینامه ایمنی برق و توانایی کار در ارتفاع",
+              "jobLocation": "اصفهان، منطقه صنعتی",
+              "gender": "مرد",
+              "capacity": 8,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کاردانی",
+              "fieldOfStudy": "برق صنعتی، الکتروتکنیک",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 12,
+              "notReviewed": 12,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "حمید",
+                "lastName": "کریمی",
+                "fatherName": "رضا",
+                "nationalId": "1357924680",
+                "examScore": 92,
+                "rank": 1,
+                "age": 29,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "الکتروتکنیک",
+                "phoneNumber": "09151234567",
+                "address": "اصفهان، خیابان سعادت آباد، پلاک 15",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m3.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m1.png",
+                  "otherDocuments": "/path/to/safety_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "مهران",
+                "lastName": "محمدپور",
+                "fatherName": "حسن",
+                "nationalId": "2468013579",
+                "examScore": 87,
+                "rank": 2,
+                "age": 27,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه5%",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "برق صنعتی",
+                "phoneNumber": "09162345678",
+                "address": "اصفهان، خیابان وحید، کوچه 22",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m4.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m2.png",
+                  "otherDocuments": "/path/to/height_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "اپراتور مرکز کنترل",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "آشنایی با سیستم‌های SCADA و توانایی کار شیفتی",
+              "jobLocation": "اصفهان، مرکز کنترل منطقه",
+              "gender": "مرد/زن",
+              "capacity": 4,
+              "quota": "آزاد",
+              "educationLevel": "کاردانی",
+              "fieldOfStudy": "الکترونیک، کنترل",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 6,
+              "notReviewed": 6,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "نرگس",
+                "lastName": "رحیمی",
+                "fatherName": "محمد",
+                "nationalId": "9876543210",
+                "examScore": 89,
+                "rank": 1,
+                "age": 26,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "الکترونیک",
+                "phoneNumber": "09173456789",
+                "address": "اصفهان، خیابان هشت بهشت، پلاک 8",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f3.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f2.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "شرکت خدمات فنی مهندسی برق",
+        "jobs": [
+          {
+            "jobName": "مهندس ناظر پروژه",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "حداقل 5 سال سابقه نظارت بر پروژه‌های برق",
+              "jobLocation": "اصفهان، دفتر مرکزی",
+              "gender": "مرد/زن",
+              "capacity": 3,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی ارشد",
+              "fieldOfStudy": "مهندسی برق قدرت",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 5,
+              "notReviewed": 5,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "امیرحسین",
+                "lastName": "صادقی",
+                "fatherName": "محمدرضا",
+                "nationalId": "5678901234",
+                "examScore": 94,
+                "rank": 1,
+                "age": 35,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "مهندسی برق قدرت",
+                "phoneNumber": "09184567890",
+                "address": "اصفهان، خیابان شیخ بهایی، پلاک 45",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m5.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m5.png",
+                  "otherDocuments": "/path/to/project_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "فاطمه",
+                "lastName": "نجفی",
+                "fatherName": "علی",
+                "nationalId": "6789012345",
+                "examScore": 91,
+                "rank": 2,
+                "age": 32,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "مهندسی برق قدرت",
+                "phoneNumber": "09195678901",
+                "address": "اصفهان، خیابان شمس آبادی، کوچه 12",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f5.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f5.png",
+                  "otherDocuments": "/path/to/supervision_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "کارشناس طراحی شبکه",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "تسلط به نرم‌افزارهای ETAP و AutoCAD",
+              "jobLocation": "اصفهان، دفتر فنی",
+              "gender": "مرد/زن",
+              "capacity": 2,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "مهندسی برق",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 4,
+              "notReviewed": 4,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "محمد",
+                "lastName": "قاسمی",
+                "fatherName": "احمد",
+                "nationalId": "7890123456",
+                "examScore": 93,
+                "rank": 1,
+                "age": 28,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی برق",
+                "phoneNumber": "09106789012",
+                "address": "اصفهان، خیابان چهارباغ، پلاک 30",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m6.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m6.png",
+                  "otherDocuments": "/path/to/software_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examTitle": "آزمون استخدامی کادر اداری قوه قضاییه",
+    "organizations": [
+      {
+        "organizationName": "ستاد مرکزی قوه قضاییه",
+        "jobs": [
+          {
+            "jobName": "کارشناس حقوقی",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "آشنایی کامل با قوانین آیین دادرسی مدنی و کیفری",
+              "jobLocation": "تهران، خیابان قائم‌مقام فراهانی",
+              "gender": "مرد/زن",
+              "capacity": 7,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "حقوق",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 12,
+              "notReviewed": 12,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "محمدرضا",
+                "lastName": "نصیری",
+                "fatherName": "کاظم",
+                "nationalId": "1122443355",
+                "examScore": 91,
+                "rank": 1,
+                "age": 29,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه25%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حقوق",
+                "phoneNumber": "09121112233",
+                "address": "تهران، بلوار کشاورز، پلاک 14",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m6.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "لیلا",
+                "lastName": "صالحی",
+                "fatherName": "حسین",
+                "nationalId": "2233445566",
+                "examScore": 86,
+                "rank": 2,
+                "age": 26,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حقوق",
+                "phoneNumber": "09129887744",
+                "address": "تهران، شهرک غرب، خیابان فرحزادی",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f5.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "کارشناس فناوری اطلاعات",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "تسلط بر شبکه، پایگاه داده و برنامه‌نویسی پایه",
+              "jobLocation": "تهران، خیابان ولیعصر",
+              "gender": "مرد/زن",
+              "capacity": 5,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "مهندسی کامپیوتر یا فناوری اطلاعات",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 8,
+              "notReviewed": 8,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "امیرحسین",
+                "lastName": "محمدی",
+                "fatherName": "رضا",
+                "nationalId": "3344556677",
+                "examScore": 92,
+                "rank": 1,
+                "age": 30,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی نرم‌افزار",
+                "phoneNumber": "09123334455",
+                "address": "تهران، خیابان شریعتی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m2.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m7.png",
+                  "otherDocuments": "/path/to/it_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "دادگستری استان تهران",
+        "jobs": [
+          {
+            "jobName": "منشی دادگاه",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "تسلط به تایپ سریع فارسی و آشنایی با نامه‌نگاری اداری",
+              "jobLocation": "تهران، میدان امام خمینی",
+              "gender": "زن",
+              "capacity": 10,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کاردانی یا کارشناسی",
+              "fieldOfStudy": "مدیریت، ادبیات، فناوری اطلاعات یا رشته‌های مرتبط",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 15,
+              "notReviewed": 15,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "نازنین",
+                "lastName": "احمدی",
+                "fatherName": "محمد",
+                "nationalId": "4455667788",
+                "examScore": 88,
+                "rank": 1,
+                "age": 25,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مدیریت دولتی",
+                "phoneNumber": "09124445566",
+                "address": "تهران، خیابان انقلاب",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f2.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f6.png",
+                  "otherDocuments": "/path/to/typing_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "زهرا",
+                "lastName": "موسوی",
+                "fatherName": "علی",
+                "nationalId": "5566778899",
+                "examScore": 82,
+                "rank": 2,
+                "age": 24,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "سهمیه3%",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "ادبیات فارسی",
+                "phoneNumber": "09125556677",
+                "address": "تهران، خیابان آزادی",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f3.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f7.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "کارشناس اجرای احکام",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "آشنایی با قوانین اجرایی و توانایی کار میدانی",
+              "jobLocation": "تهران، خیابان کارگر شمالی",
+              "gender": "مرد",
+              "capacity": 8,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "حقوق، مدیریت یا رشته‌های مرتبط",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 12,
+              "notReviewed": 12,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "رضا",
+                "lastName": "حسینی",
+                "fatherName": "محمد",
+                "nationalId": "6677889900",
+                "examScore": 85,
+                "rank": 1,
+                "age": 28,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حقوق",
+                "phoneNumber": "09126667788",
+                "address": "تهران، خیابان پیروزی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m3.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m8.png",
+                  "otherDocuments": "/path/to/law_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "سازمان ثبت اسناد و املاک کشور",
+        "jobs": [
+          {
+            "jobName": "کارشناس ثبت اسناد",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "آشنایی با قوانین ثبتی و مقررات املاک",
+              "jobLocation": "تهران، میدان بهارستان",
+              "gender": "مرد/زن",
+              "capacity": 6,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "حقوق، مدیریت یا رشته‌های مرتبط",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 10,
+              "notReviewed": 10,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "سپیده",
+                "lastName": "قاسمی",
+                "fatherName": "حسن",
+                "nationalId": "7788990011",
+                "examScore": 89,
+                "rank": 1,
+                "age": 27,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حقوق",
+                "phoneNumber": "09127778899",
+                "address": "تهران، خیابان جمهوری",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f4.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f8.png",
+                  "otherDocuments": "/path/to/estate_law_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "محمد",
+                "lastName": "جعفری",
+                "fatherName": "علی",
+                "nationalId": "8899001122",
+                "examScore": 83,
+                "rank": 2,
+                "age": 30,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه5%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مدیریت دولتی",
+                "phoneNumber": "09128889900",
+                "address": "تهران، خیابان ولیعصر",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m4.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m9.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "کارشناس فنی ثبتی",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "آشنایی با نقشه‌برداری و مساحی املاک",
+              "jobLocation": "تهران، خیابان بهشت",
+              "gender": "مرد/زن",
+              "capacity": 4,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "مهندسی عمران، نقشه‌برداری یا رشته‌های مرتبط",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 7,
+              "notReviewed": 7,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "امید",
+                "lastName": "رضایی",
+                "fatherName": "حسین",
+                "nationalId": "9900112233",
+                "examScore": 87,
+                "rank": 1,
+                "age": 29,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی عمران",
+                "phoneNumber": "09129990011",
+                "address": "تهران، خیابان شهید بهشتی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m5.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m10.png",
+                  "otherDocuments": "/path/to/surveying_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examTitle": "آزمون استخدام نیروی پیمانی مشاغل عملیاتی آتش‌نشانی شهرداری‌های کشور",
+    "organizations": [
+      {
+        "organizationName": "سازمان آتش‌نشانی و خدمات ایمنی شهرداری تهران",
+        "jobs": [
+          {
+            "jobName": "آتش‌نشان درجه 2",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "قد حداقل 170 سانتی‌متر، عدم سابقه بیماری‌های قلبی و تنفسی",
+              "jobLocation": "تهران، خیابان ولیعصر، ایستگاه مرکزی",
+              "gender": "مرد",
+              "capacity": 15,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "دیپلم یا فوق دیپلم",
+              "fieldOfStudy": "همه رشته‌ها",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 20,
+              "notReviewed": 20,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "امیرحسین",
+                "lastName": "محمدی",
+                "fatherName": "رضا",
+                "nationalId": "1122334455",
+                "examScore": 92.5,
+                "rank": 1,
+                "age": 25,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "فوق دیپلم",
+                "fieldOfStudy": "ایمنی صنعتی",
+                "phoneNumber": "09123456789",
+                "address": "تهران، پاسداران، خیابان گل نبی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m15.png",
+                  "otherDocuments": "/path/to/fitness_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "علیرضا",
+                "lastName": "کریمی",
+                "fatherName": "محمد",
+                "nationalId": "2233445566",
+                "examScore": 87.0,
+                "rank": 2,
+                "age": 23,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه5%",
+                "educationLevel": "دیپلم",
+                "fieldOfStudy": "ریاضی فیزیک",
+                "phoneNumber": "09129876543",
+                "address": "تهران، شهرک غرب، بلوار فرحزادی",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m2.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m16.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "راننده ماشین‌های آتش‌نشانی",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "دارای گواهینامه پایه دو، حداقل 3 سال سابقه رانندگی",
+              "jobLocation": "تهران، میدان امام خمینی، ایستگاه مرکزی",
+              "gender": "مرد",
+              "capacity": 5,
+              "quota": "آزاد",
+              "educationLevel": "دیپلم",
+              "fieldOfStudy": "همه رشته‌ها",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 8,
+              "notReviewed": 8,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "حمید",
+                "lastName": "رضایی",
+                "fatherName": "حسن",
+                "nationalId": "3344556677",
+                "examScore": 89.0,
+                "rank": 1,
+                "age": 28,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "دیپلم",
+                "fieldOfStudy": "حسابداری",
+                "phoneNumber": "09131234567",
+                "address": "تهران، خیابان آزادی، کوچه سوم",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m3.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m17.png",
+                  "otherDocuments": "/path/to/driving_license.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "سازمان آتش‌نشانی و خدمات ایمنی شهرداری اصفهان",
+        "jobs": [
+          {
+            "jobName": "آتش‌نشان درجه 3",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "توانایی کار تیمی، تحمل فشار کاری بالا",
+              "jobLocation": "اصفهان، خیابان چهارباغ، ایستگاه مرکزی",
+              "gender": "مرد",
+              "capacity": 10,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "دیپلم",
+              "fieldOfStudy": "همه رشته‌ها",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 15,
+              "notReviewed": 15,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "مهدی",
+                "lastName": "حسینی",
+                "fatherName": "علی",
+                "nationalId": "4455667788",
+                "examScore": 85.5,
+                "rank": 1,
+                "age": 24,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "دیپلم",
+                "fieldOfStudy": "تجربی",
+                "phoneNumber": "09142345678",
+                "address": "اصفهان، خیابان هشت بهشت، کوچه 12",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m4.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m18.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "سعید",
+                "lastName": "موسوی",
+                "fatherName": "محمد",
+                "nationalId": "5566778899",
+                "examScore": 80.0,
+                "rank": 2,
+                "age": 26,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه25%",
+                "educationLevel": "دیپلم",
+                "fieldOfStudy": "فنی حرفه‌ای",
+                "phoneNumber": "09153456789",
+                "address": "اصفهان، خیابان شمس‌آبادی، پلاک 45",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m5.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m19.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "سازمان آتش‌نشانی و خدمات ایمنی شهرداری مشهد",
+        "jobs": [
+          {
+            "jobName": "نجات‌گر ارتفاع",
+            "jobDetails": {
+              "province": "خراسان رضوی",
+              "specificConditions": "عدم ترس از ارتفاع، گواهینامه کار در ارتفاع معتبر",
+              "jobLocation": "مشهد، بلوار وکیل‌آباد، ایستگاه تخصصی",
+              "gender": "مرد",
+              "capacity": 6,
+              "quota": "آزاد",
+              "educationLevel": "دیپلم",
+              "fieldOfStudy": "همه رشته‌ها",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 9,
+              "notReviewed": 9,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "محمد",
+                "lastName": "جعفری",
+                "fatherName": "رضا",
+                "nationalId": "6677889900",
+                "examScore": 90.0,
+                "rank": 1,
+                "age": 27,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "دیپلم",
+                "fieldOfStudy": "ریاضی",
+                "phoneNumber": "09164567890",
+                "address": "مشهد، خیابان امامت، کوچه 15",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m6.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m20.png",
+                  "otherDocuments": "/path/to/height_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "علی",
+                "lastName": "نوری",
+                "fatherName": "حسین",
+                "nationalId": "7788990011",
+                "examScore": 84.5,
+                "rank": 2,
+                "age": 25,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "دیپلم",
+                "fieldOfStudy": "تجربی",
+                "phoneNumber": "09175678901",
+                "address": "مشهد، بلوار احمدآباد، پلاک 32",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m7.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m21.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "اپراتور تجهیزات امداد و نجات",
+            "jobDetails": {
+              "province": "خراسان رضوی",
+              "specificConditions": "آشنایی با تجهیزات امداد و نجات، توانایی کار شیفتی",
+              "jobLocation": "مشهد، بلوار خیام، ایستگاه تخصصی",
+              "gender": "مرد",
+              "capacity": 4,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "دیپلم یا فوق دیپلم",
+              "fieldOfStudy": "همه رشته‌ها",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 7,
+              "notReviewed": 7,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "حامد",
+                "lastName": "کریمی",
+                "fatherName": "محمد",
+                "nationalId": "8899001122",
+                "examScore": 88.0,
+                "rank": 1,
+                "age": 26,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه5%",
+                "educationLevel": "فوق دیپلم",
+                "fieldOfStudy": "مکانیک",
+                "phoneNumber": "09186789012",
+                "address": "مشهد، بلوار وکیل‌آباد، خیابان 10",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m8.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m22.png",
+                  "otherDocuments": "/path/to/rescue_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examTitle": "ششمین آزمون مشترک فراگیر دستگاه‌های اجرایی کشور",
+    "organizations": [
+      {
+        "organizationName": "سازمان برنامه و بودجه",
+        "jobs": [
+          {
+            "jobName": "کارشناس برنامه‌ریزی",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "آشنایی با نرم‌افزارهای آماری و تحلیل داده‌ها",
+              "jobLocation": "تهران، خیابان پاسداران",
+              "gender": "مرد/زن",
+              "capacity": 3,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "برنامه‌ریزی، آمار، اقتصاد",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 6,
+              "notReviewed": 6,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "یاسمن",
+                "lastName": "اکبری",
+                "fatherName": "حسین",
+                "nationalId": "1122003344",
+                "examScore": 89,
+                "rank": 1,
+                "age": 26,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "برنامه‌ریزی شهری",
+                "phoneNumber": "09351234567",
+                "address": "تهران، نارمک",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_yasaman.jpg",
+                  "degreeImage": "/path/to/degree_yasaman.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_yasaman.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_yasaman.jpg",
+                  "personalPhoto": "/path/to/photo_yasaman.jpg",
+                  "otherDocuments": "/path/to/other_docs_yasaman.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "علی",
+                "lastName": "رضایی",
+                "fatherName": "محمد",
+                "nationalId": "1234567890",
+                "examScore": 92,
+                "rank": 2,
+                "age": 28,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه5%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "آمار",
+                "phoneNumber": "09123456789",
+                "address": "تهران، خیابان ولیعصر",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_ali.jpg",
+                  "degreeImage": "/path/to/degree_ali.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_ali.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_ali.jpg",
+                  "personalPhoto": "/path/to/photo_ali.jpg",
+                  "otherDocuments": "/path/to/other_docs_ali.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "فاطمه",
+                "lastName": "حسینی",
+                "fatherName": "رضا",
+                "nationalId": "9876543210",
+                "examScore": 85,
+                "rank": 3,
+                "age": 25,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "اقتصاد",
+                "phoneNumber": "09387654321",
+                "address": "تهران، خیابان حافظ",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_fatemeh.jpg",
+                  "degreeImage": "/path/to/degree_fatemeh.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_fatemeh.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_fatemeh.jpg",
+                  "personalPhoto": "/path/to/photo_fatemeh.jpg",
+                  "otherDocuments": "/path/to/other_docs_fatemeh.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "مهدی",
+                "lastName": "کاظمی",
+                "fatherName": "احمد",
+                "nationalId": "4567891234",
+                "examScore": 78,
+                "rank": 4,
+                "age": 30,
+                "gender": "مرد",
+                "dutyStatus": "معافیت دائم",
+                "quota": "سهمیه3%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "برنامه‌ریزی شهری",
+                "phoneNumber": "09111223344",
+                "address": "تهران، خیابان آزادی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_mehdi.jpg",
+                  "degreeImage": "/path/to/degree_mehdi.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_mehdi.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_mehdi.jpg",
+                  "personalPhoto": "/path/to/photo_mehdi.jpg",
+                  "otherDocuments": "/path/to/other_docs_mehdi.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "سارا",
+                "lastName": "شریفی",
+                "fatherName": "سعید",
+                "nationalId": "3216549870",
+                "examScore": 80,
+                "rank": 5,
+                "age": 27,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "آمار",
+                "phoneNumber": "09334455667",
+                "address": "تهران، خیابان امام",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_sara.jpg",
+                  "degreeImage": "/path/to/degree_sara.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_sara.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_sara.jpg",
+                  "personalPhoto": "/path/to/photo_sara.jpg",
+                  "otherDocuments": "/path/to/other_docs_sara.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "حسین",
+                "lastName": "موسوی",
+                "fatherName": "علی",
+                "nationalId": "7891234560",
+                "examScore": 75,
+                "rank": 6,
+                "age": 29,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه5%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "اقتصاد",
+                "phoneNumber": "09199887766",
+                "address": "تهران، خیابان ولیعصر",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_hossein.jpg",
+                  "degreeImage": "/path/to/degree_hossein.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_hossein.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_hossein.jpg",
+                  "personalPhoto": "/path/to/photo_hossein.jpg",
+                  "otherDocuments": "/path/to/other_docs_hossein.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "وزارت صنعت، معدن و تجارت",
+        "jobs": [
+          {
+            "jobName": "کارشناس حقوقی",
+            "jobDetails": {
+              "province": "آذربایجان شرقی",
+              "specificConditions": "آشنایی با قوانین تجارت، تنظیم قراردادهای تجاری",
+              "jobLocation": "تبریز، مرکز استان",
+              "gender": "مرد/زن",
+              "capacity": 4,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "حقوق",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 5,
+              "notReviewed": 5,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "امیر",
+                "lastName": "زارعی",
+                "fatherName": "بهمن",
+                "nationalId": "2233445566",
+                "examScore": 83,
+                "rank": 1,
+                "age": 27,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه5%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حقوق",
+                "phoneNumber": "09141112233",
+                "address": "تبریز، خیابان آزادی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_amir.jpg",
+                  "degreeImage": "/path/to/degree_amir.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_amir.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_amir.jpg",
+                  "personalPhoto": "/path/to/photo_amir.jpg",
+                  "otherDocuments": "/path/to/other_docs_amir.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "زهرا",
+                "lastName": "جعفری",
+                "fatherName": "محمد",
+                "nationalId": "6543210987",
+                "examScore": 88,
+                "rank": 2,
+                "age": 26,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حقوق بین‌الملل",
+                "phoneNumber": "09356543210",
+                "address": "آذربایجان شرقی، خیابان حافظ",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_zahra.jpg",
+                  "degreeImage": "/path/to/degree_zahra.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_zahra.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_zahra.jpg",
+                  "personalPhoto": "/path/to/photo_zahra.jpg",
+                  "otherDocuments": "/path/to/other_docs_zahra.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "رضا",
+                "lastName": "علوی",
+                "fatherName": "حسین",
+                "nationalId": "1472583690",
+                "examScore": 79,
+                "rank": 3,
+                "age": 29,
+                "gender": "مرد",
+                "dutyStatus": "معافیت دائم",
+                "quota": "سهمیه3%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حقوق",
+                "phoneNumber": "09122334455",
+                "address": "آذربایجان شرقی، خیابان امام",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_reza.jpg",
+                  "degreeImage": "/path/to/degree_reza.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_reza.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_reza.jpg",
+                  "personalPhoto": "/path/to/photo_reza.jpg",
+                  "otherDocuments": "/path/to/other_docs_reza.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "نرگس",
+                "lastName": "نعمتی",
+                "fatherName": "مهدی",
+                "nationalId": "2583691470",
+                "examScore": 82,
+                "rank": 4,
+                "age": 24,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حقوق",
+                "phoneNumber": "09378899001",
+                "address": "آذربایجان شرقی، خیابان ولیعصر",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_narges.jpg",
+                  "degreeImage": "/path/to/degree_narges.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_narges.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_narges.jpg",
+                  "personalPhoto": "/path/to/photo_narges.jpg",
+                  "otherDocuments": "/path/to/other_docs_narges.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "احمد",
+                "lastName": "محمدی",
+                "fatherName": "علی",
+                "nationalId": "3691472580",
+                "examScore": 76,
+                "rank": 5,
+                "age": 31,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه5%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حقوق بین‌الملل",
+                "phoneNumber": "09144556677",
+                "address": "آذربایجان شرقی، خیابان آزادی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_ahmad.jpg",
+                  "degreeImage": "/path/to/degree_ahmad.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_ahmad.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_ahmad.jpg",
+                  "personalPhoto": "/path/to/photo_ahmad.jpg",
+                  "otherDocuments": "/path/to/other_docs_ahmad.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "مرکز آمار ایران",
+        "jobs": [
+          {
+            "jobName": "کارشناس آمار",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "تسلط به SPSS و Excel پیشرفته",
+              "jobLocation": "اصفهان، خیابان حکیم نظامی",
+              "gender": "مرد/زن",
+              "capacity": 2,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "آمار، ریاضی کاربردی",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 4,
+              "notReviewed": 4,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "مریم",
+                "lastName": "پارسایی",
+                "fatherName": "سعید",
+                "nationalId": "6655443322",
+                "examScore": 90,
+                "rank": 1,
+                "age": 25,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "سهمیه3%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "آمار",
+                "phoneNumber": "09131234567",
+                "address": "اصفهان، خیابان آمادگاه",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_maryam.jpg",
+                  "degreeImage": "/path/to/degree_maryam.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_maryam.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_maryam.jpg",
+                  "personalPhoto": "/path/to/photo_maryam.jpg",
+                  "otherDocuments": "/path/to/other_docs_maryam.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "محمد",
+                "lastName": "رضایی",
+                "fatherName": "رضا",
+                "nationalId": "7418529630",
+                "examScore": 87,
+                "rank": 2,
+                "age": 27,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "ریاضی کاربردی",
+                "phoneNumber": "09166778899",
+                "address": "اصفهان، خیابان حافظ",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_mohammad.jpg",
+                  "degreeImage": "/path/to/degree_mohammad.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_mohammad.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_mohammad.jpg",
+                  "personalPhoto": "/path/to/photo_mohammad.jpg",
+                  "otherDocuments": "/path/to/other_docs_mohammad.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "الهام",
+                "lastName": "شریفی",
+                "fatherName": "حسین",
+                "nationalId": "8529637410",
+                "examScore": 84,
+                "rank": 3,
+                "age": 24,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "سهمیه3%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "آمار",
+                "phoneNumber": "09322334455",
+                "address": "اصفهان، خیابان ولیعصر",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_elham.jpg",
+                  "degreeImage": "/path/to/degree_elham.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_elham.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_elham.jpg",
+                  "personalPhoto": "/path/to/photo_elham.jpg",
+                  "otherDocuments": "/path/to/other_docs_elham.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "سعید",
+                "lastName": "کاظمی",
+                "fatherName": "مهدی",
+                "nationalId": "9637418520",
+                "examScore": 80,
+                "rank": 4,
+                "age": 28,
+                "gender": "مرد",
+                "dutyStatus": "معافیت دائم",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "ریاضی کاربردی",
+                "phoneNumber": "09155667788",
+                "address": "اصفهان، خیابان آزادی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_saeed.jpg",
+                  "degreeImage": "/path/to/degree_saeed.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_saeed.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_saeed.jpg",
+                  "personalPhoto": "/path/to/photo_saeed.jpg",
+                  "otherDocuments": "/path/to/other_docs_saeed.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examTitle": "آزمون استخدامی تامین نیروی بانک شهر",
+    "organizations": [
+      {
+        "organizationName": "بانک شهر",
+        "jobs": [
+          {
+            "jobName": "کارشناس امور بانکی",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "آشنایی با نرم‌افزارهای بانکی و امور حسابداری",
+              "jobLocation": "تهران، شعب مرکزی بانک شهر",
+              "gender": "مرد/زن",
+              "capacity": 5,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "مدیریت، حسابداری، اقتصاد",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 7,
+              "notReviewed": 7,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "زهرا",
+                "lastName": "کریمی",
+                "fatherName": "محمود",
+                "nationalId": "1122334455",
+                "examScore": 87,
+                "rank": 1,
+                "age": 27,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "سهمیه25%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حسابداری",
+                "phoneNumber": "09121234567",
+                "address": "تهران، بلوار کشاورز",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f13.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "حسام",
+                "lastName": "نوروزی",
+                "fatherName": "کاظم",
+                "nationalId": "9988776655",
+                "examScore": 81,
+                "rank": 2,
+                "age": 26,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مدیریت بازرگانی",
+                "phoneNumber": "09351234567",
+                "address": "تهران، میدان ولیعصر",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m3.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m17.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "تحلیلگر مالی",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "تسلط به نرم‌افزارهای مالی و تحلیل داده‌ها",
+              "jobLocation": "تهران، مرکز مالی بانک شهر",
+              "gender": "مرد/زن",
+              "capacity": 3,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی ارشد",
+              "fieldOfStudy": "مالی، اقتصاد، آمار",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 5,
+              "notReviewed": 5,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "محمد",
+                "lastName": "رحمانی",
+                "fatherName": "علی",
+                "nationalId": "6677889900",
+                "examScore": 92,
+                "rank": 1,
+                "age": 30,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "مهندسی مالی",
+                "phoneNumber": "09123459876",
+                "address": "تهران، خیابان شهید بهشتی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m4.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m18.png",
+                  "otherDocuments": "/path/to/financial_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "بانک مرکزی جمهوری اسلامی ایران",
+        "jobs": [
+          {
+            "jobName": "متصدی امور بانکی",
+            "jobDetails": {
+              "province": "خراسان رضوی",
+              "specificConditions": "قدرت ارتباط با مشتری، روابط عمومی بالا",
+              "jobLocation": "مشهد، شعبه احمدآباد",
+              "gender": "مرد/زن",
+              "capacity": 4,
+              "quota": "آزاد",
+              "educationLevel": "کاردانی یا کارشناسی",
+              "fieldOfStudy": "همه رشته‌ها",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 5,
+              "notReviewed": 5,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "الهام",
+                "lastName": "صادقی",
+                "fatherName": "حمید",
+                "nationalId": "5544332211",
+                "examScore": 78,
+                "rank": 1,
+                "age": 24,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "سهمیه5%",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "علوم انسانی",
+                "phoneNumber": "09151122334",
+                "address": "مشهد، بلوار سجاد",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_elham.jpg",
+                  "degreeImage": "/path/to/degree_elham.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_elham.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_elham.jpg",
+                  "personalPhoto": "/path/to/photo_elham.jpg",
+                  "otherDocuments": "/path/to/other_docs_elham.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "امیرحسین",
+                "lastName": "دشتی",
+                "fatherName": "ناصر",
+                "nationalId": "8877665544",
+                "examScore": 75,
+                "rank": 2,
+                "age": 25,
+                "gender": "مرد",
+                "dutyStatus": "معافیت غیر پزشکی",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "علوم اجتماعی",
+                "phoneNumber": "09150001122",
+                "address": "مشهد، قاسم‌آباد",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/path/to/card_amirhossein.jpg",
+                  "degreeImage": "/path/to/degree_amirhossein.jpg",
+                  "birthCertificatePage1": "/path/to/birth1_amirhossein.jpg",
+                  "birthCertificatePage2": "/path/to/birth2_amirhossein.jpg",
+                  "personalPhoto": "/path/to/photo_amirhossein.jpg",
+                  "otherDocuments": "/path/to/other_docs_amirhossein.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "کارشناس نظارت بانکی",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "آشنایی با قوانین و مقررات بانک مرکزی",
+              "jobLocation": "تهران، خیابان فردوسی",
+              "gender": "مرد/زن",
+              "capacity": 2,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی ارشد",
+              "fieldOfStudy": "حقوق، اقتصاد، مدیریت مالی",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 4,
+              "notReviewed": 4,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "سارا",
+                "lastName": "محمدی",
+                "fatherName": "رضا",
+                "nationalId": "1122446688",
+                "examScore": 90,
+                "rank": 1,
+                "age": 29,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "حقوق تجارت",
+                "phoneNumber": "09127778899",
+                "address": "تهران، خیابان ولیعصر",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f2.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f14.png",
+                  "otherDocuments": "/path/to/law_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "بانک ملی ایران",
+        "jobs": [
+          {
+            "jobName": "کارشناس اعتبارات",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "آشنایی با فرآیندهای اعطای تسهیلات بانکی",
+              "jobLocation": "اصفهان، شعبه مرکزی",
+              "gender": "مرد/زن",
+              "capacity": 6,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "مدیریت، اقتصاد، حسابداری",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 9,
+              "notReviewed": 9,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "علی",
+                "lastName": "رضایی",
+                "fatherName": "محمد",
+                "nationalId": "3344556677",
+                "examScore": 85,
+                "rank": 1,
+                "age": 28,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "اقتصاد",
+                "phoneNumber": "09138889900",
+                "address": "اصفهان، خیابان چهارباغ",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m5.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m19.png",
+                  "otherDocuments": "/path/to/credit_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "فاطمه",
+                "lastName": "زارعی",
+                "fatherName": "حسین",
+                "nationalId": "5566778899",
+                "examScore": 82,
+                "rank": 2,
+                "age": 26,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "سهمیه3%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مدیریت مالی",
+                "phoneNumber": "09149990011",
+                "address": "اصفهان، خیابان شمس‌آبادی",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f3.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f15.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "مشاور مالی",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "مهارت در مشاوره مالی و سرمایه‌گذاری",
+              "jobLocation": "تهران، شعبه مرکزی",
+              "gender": "مرد/زن",
+              "capacity": 4,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی ارشد",
+              "fieldOfStudy": "مالی، اقتصاد، MBA",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 6,
+              "notReviewed": 6,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "محمدجواد",
+                "lastName": "نوری",
+                "fatherName": "رضا",
+                "nationalId": "7788990011",
+                "examScore": 93,
+                "rank": 1,
+                "age": 32,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "مدیریت مالی",
+                "phoneNumber": "09151112233",
+                "address": "تهران، خیابان شهید بهشتی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m6.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m20.png",
+                  "otherDocuments": "/path/to/financial_advisor_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examTitle": "آزمون استخدامی نیروی انسانی سازمان زندان‌ها و اقدامات تامینی و تربیتی کشور",
+    "organizations": [
+      {
+        "organizationName": "سازمان زندان‌های استان فارس",
+        "jobs": [
+          {
+            "jobName": "افسر مراقب مردان",
+            "jobDetails": {
+              "province": "فارس",
+              "specificConditions": "داشتن آمادگی جسمانی و روحی کامل، قد حداقل ۱۷۰ سانتی‌متر",
+              "jobLocation": "شیراز، زندان عادل‌آباد",
+              "gender": "مرد",
+              "capacity": 6,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کاردانی یا کارشناسی",
+              "fieldOfStudy": "کلیه رشته‌ها",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 9,
+              "notReviewed": 9,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "مهدی",
+                "lastName": "نعمتی",
+                "fatherName": "فرج‌الله",
+                "nationalId": "1234567891",
+                "examScore": 82,
+                "rank": 1,
+                "age": 28,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه25%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "علوم اجتماعی",
+                "phoneNumber": "09171122334",
+                "address": "شیراز، بلوار پاسداران",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m18.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "علی",
+                "lastName": "دهقانی",
+                "fatherName": "حسین",
+                "nationalId": "5566778899",
+                "examScore": 79,
+                "rank": 2,
+                "age": 27,
+                "gender": "مرد",
+                "dutyStatus": "در حین خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "تربیت بدنی",
+                "phoneNumber": "09173334455",
+                "address": "شیراز، خیابان زند",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m3.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m20.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "مددکار اجتماعی",
+            "jobDetails": {
+              "province": "فارس",
+              "specificConditions": "آشنایی با مسائل اجتماعی و توانایی حل مشکلات مددجویان",
+              "jobLocation": "شیراز، زندان مرکزی",
+              "gender": "مرد/زن",
+              "capacity": 4,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "مددکاری اجتماعی، علوم اجتماعی",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 6,
+              "notReviewed": 6,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "زهرا",
+                "lastName": "محمدی",
+                "fatherName": "احمد",
+                "nationalId": "1122334455",
+                "examScore": 85,
+                "rank": 1,
+                "age": 29,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مددکاری اجتماعی",
+                "phoneNumber": "09174445566",
+                "address": "شیراز، خیابان قصردشت",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f2.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f10.png",
+                  "otherDocuments": "/path/to/social_work_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "سازمان زندان‌های استان خراسان شمالی",
+        "jobs": [
+          {
+            "jobName": "کارشناس مشاوره و روان‌شناسی",
+            "jobDetails": {
+              "province": "خراسان شمالی",
+              "specificConditions": "دارا بودن سابقه کار در مراکز اصلاح و تربیت یا مشاوره",
+              "jobLocation": "بجنورد، مرکز اصلاح و تربیت",
+              "gender": "مرد/زن",
+              "capacity": 3,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی یا بالاتر",
+              "fieldOfStudy": "روان‌شناسی، مشاوره",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 4,
+              "notReviewed": 4,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "مهسا",
+                "lastName": "ابراهیمی",
+                "fatherName": "صابر",
+                "nationalId": "3344556677",
+                "examScore": 84,
+                "rank": 1,
+                "age": 30,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "روان‌شناسی بالینی",
+                "phoneNumber": "09351112233",
+                "address": "بجنورد، خیابان طالقانی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f3.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "ندا",
+                "lastName": "رحمانی",
+                "fatherName": "یوسف",
+                "nationalId": "1122446688",
+                "examScore": 80,
+                "rank": 2,
+                "age": 29,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "سهمیه3%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مشاوره خانواده",
+                "phoneNumber": "09154446677",
+                "address": "بجنورد، خیابان شورا",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f9.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "افسر مراقب زنان",
+            "jobDetails": {
+              "province": "خراسان شمالی",
+              "specificConditions": "قد حداقل ۱۶۵ سانتی‌متر، توانایی مدیریت شرایط بحرانی",
+              "jobLocation": "بجنورد، زندان زنان",
+              "gender": "زن",
+              "capacity": 2,
+              "quota": "آزاد",
+              "educationLevel": "کاردانی یا کارشناسی",
+              "fieldOfStudy": "کلیه رشته‌ها",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 3,
+              "notReviewed": 3,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "فاطمه",
+                "lastName": "زارعی",
+                "fatherName": "محمد",
+                "nationalId": "4455667788",
+                "examScore": 83,
+                "rank": 1,
+                "age": 26,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "روانشناسی",
+                "phoneNumber": "09165556677",
+                "address": "بجنورد، خیابان امام",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f3.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f11.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "سازمان زندان‌های استان تهران",
+        "jobs": [
+          {
+            "jobName": "کارشناس امنیتی",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "سابقه خدمت در نهادهای امنیتی یا نظامی، عدم سوء پیشینه",
+              "jobLocation": "تهران، زندان اوین",
+              "gender": "مرد",
+              "capacity": 5,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "امنیت، حقوق، مدیریت",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 8,
+              "notReviewed": 8,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "رضا",
+                "lastName": "کریمی",
+                "fatherName": "عباس",
+                "nationalId": "6677889900",
+                "examScore": 88,
+                "rank": 1,
+                "age": 31,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه25%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "امنیت اطلاعات",
+                "phoneNumber": "09176667788",
+                "address": "تهران، خیابان آزادی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m4.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m21.png",
+                  "otherDocuments": "/path/to/security_certificates.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "محمد",
+                "lastName": "حسینی",
+                "fatherName": "علی",
+                "nationalId": "7788990011",
+                "examScore": 82,
+                "rank": 2,
+                "age": 29,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حقوق جزا",
+                "phoneNumber": "09178889900",
+                "address": "تهران، خیابان پیروزی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m5.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m22.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "روانپزشک زندان",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "دارا بودن پروانه نظام پزشکی، تخصص روانپزشکی",
+              "jobLocation": "تهران، زندان رجایی‌شهر",
+              "gender": "مرد/زن",
+              "capacity": 2,
+              "quota": "آزاد",
+              "educationLevel": "دکترای تخصصی",
+              "fieldOfStudy": "روانپزشکی",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 3,
+              "notReviewed": 3,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "دکتر سارا",
+                "lastName": "موسوی",
+                "fatherName": "حسین",
+                "nationalId": "8899001122",
+                "examScore": 95,
+                "rank": 1,
+                "age": 35,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "دکترای تخصصی",
+                "fieldOfStudy": "روانپزشکی",
+                "phoneNumber": "09189990011",
+                "address": "تهران، خیابان شریعتی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f4.png",
+                  "degreeImage": "/assets/images/persons/degree_phd.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f12.png",
+                  "otherDocuments": "/path/to/medical_license.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examTitle": "دوازدهمین امتحان مشترک فراگیر دستگاه‌های اجرایی کشور",
+    "organizations": [
+      {
+        "organizationName": "سازمان برنامه و بودجه کشور",
+        "jobs": [
+          {
+            "jobName": "کارشناس آمار",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "تسلط به نرم‌افزارهای آماری مانند SPSS و R",
+              "jobLocation": "تهران، خیابان پاسداران",
+              "gender": "مرد/زن",
+              "capacity": 4,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کارشناسی یا بالاتر",
+              "fieldOfStudy": "آمار",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 6,
+              "notReviewed": 6,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "زهرا",
+                "lastName": "کریمی",
+                "fatherName": "احمد",
+                "nationalId": "1122334455",
+                "examScore": 89,
+                "rank": 1,
+                "age": 31,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "سهمیه5%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "آمار",
+                "phoneNumber": "09120000001",
+                "address": "تهران، شهرک غرب",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f13.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "محسن",
+                "lastName": "رضایی",
+                "fatherName": "علی",
+                "nationalId": "2233445566",
+                "examScore": 85,
+                "rank": 2,
+                "age": 29,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "آمار",
+                "phoneNumber": "09120000002",
+                "address": "تهران، خیابان ولیعصر",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m7.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_2.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_2.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m7.png",
+                  "otherDocuments": "/path/to/statistics_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "وزارت ارتباطات و فناوری اطلاعات",
+        "jobs": [
+          {
+            "jobName": "کارشناس فناوری اطلاعات",
+            "jobDetails": {
+              "province": "خراسان رضوی",
+              "specificConditions": "آشنایی با شبکه و امنیت اطلاعات",
+              "jobLocation": "مشهد، بلوار سجاد",
+              "gender": "مرد",
+              "capacity": 5,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "مهندسی کامپیوتر، فناوری اطلاعات",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 8,
+              "notReviewed": 8,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "حسام",
+                "lastName": "یوسفی",
+                "fatherName": "نادر",
+                "nationalId": "5566778899",
+                "examScore": 78,
+                "rank": 1,
+                "age": 27,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "فناوری اطلاعات",
+                "phoneNumber": "09151112233",
+                "address": "مشهد، الهیه",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m6.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "علیرضا",
+                "lastName": "نعمتی",
+                "fatherName": "محمد",
+                "nationalId": "6677889900",
+                "examScore": 82,
+                "rank": 2,
+                "age": 30,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی کامپیوتر",
+                "phoneNumber": "09151112234",
+                "address": "مشهد، بلوار وکیل آباد",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m8.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_3.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_3.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m8.png",
+                  "otherDocuments": "/path/to/network_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "سازمان ثبت احوال کشور",
+        "jobs": [
+          {
+            "jobName": "مسئول دفتر",
+            "jobDetails": {
+              "province": "مازندران",
+              "specificConditions": "آشنایی با امور دفتری و نرم‌افزارهای Office",
+              "jobLocation": "ساری، خیابان فرهنگ",
+              "gender": "زن",
+              "capacity": 3,
+              "quota": "آزاد",
+              "educationLevel": "کاردانی یا کارشناسی",
+              "fieldOfStudy": "مدیریت، علوم اداری، زبان انگلیسی",
+              "multiplierCapacity": 3
+            },
+            "stats": {
+              "totalCandidates": 5,
+              "notReviewed": 5,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "الهام",
+                "lastName": "حسینی",
+                "fatherName": "قاسم",
+                "nationalId": "9988776655",
+                "examScore": 83,
+                "rank": 1,
+                "age": 25,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "سهمیه3%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مدیریت دولتی",
+                "phoneNumber": "09357556644",
+                "address": "ساری، خیابان امام",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f3.png",
+                  "otherDocuments": ""
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "مریم",
+                "lastName": "علوی",
+                "fatherName": "حسین",
+                "nationalId": "8877665544",
+                "examScore": 80,
+                "rank": 2,
+                "age": 28,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "علوم اداری",
+                "phoneNumber": "09357556645",
+                "address": "ساری، خیابان قارن",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f6.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_4.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_4.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f6.png",
+                  "otherDocuments": "/path/to/office_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examTitle": "آزمون استخدام نيروی پيمانی مشاغل عملياتی آتش نشانی شهرداری اصفهان",
+    "organizations": [
+      {
+        "organizationName": "سازمان شهرداری‌ها و دهیاری‌های کشور",
+        "jobs": [
+          {
+            "jobName": "آتش‌نشان عملیاتی",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "دارای آمادگی جسمانی و سلامت کامل، مدرک معتبر دوره‌های کمک‌های اولیه",
+              "jobLocation": "اصفهان، ایستگاه‌های آتش‌نشانی مناطق مختلف",
+              "gender": "مرد",
+              "capacity": 15,
+              "quota": "آزاد",
+              "educationLevel": "کاردانی یا بالاتر",
+              "fieldOfStudy": "کلیه رشته‌ها",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 30,
+              "notReviewed": 30,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "مهدی",
+                "lastName": "اکبری",
+                "fatherName": "ناصر",
+                "nationalId": "1111222233",
+                "examScore": 82,
+                "rank": 1,
+                "age": 29,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "مدیریت بحران",
+                "phoneNumber": "09131112233",
+                "address": "اصفهان، خیابان کاوه، کوچه نسترن",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m3.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m11.png",
+                  "otherDocuments": "/path/to/first_aid_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "امیر",
+                "lastName": "حسینی",
+                "fatherName": "محمد",
+                "nationalId": "2222333344",
+                "examScore": 78,
+                "rank": 2,
+                "age": 27,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی ایمنی",
+                "phoneNumber": "09131112234",
+                "address": "اصفهان، خیابان مشتاق، کوچه بهار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m4.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_2.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_2.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m12.png",
+                  "otherDocuments": "/path/to/first_aid_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "راننده خودروهای سنگین آتش‌نشانی",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "دارای گواهینامه پایه یک، حداقل 3 سال سابقه رانندگی حرفه‌ای",
+              "jobLocation": "اصفهان، مناطق عملیاتی ویژه",
+              "gender": "مرد",
+              "capacity": 5,
+              "quota": "آزاد",
+              "educationLevel": "دیپلم یا بالاتر",
+              "fieldOfStudy": "کلیه رشته‌ها",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 10,
+              "notReviewed": 10,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "حسین",
+                "lastName": "جعفری",
+                "fatherName": "کاظم",
+                "nationalId": "9988776655",
+                "examScore": 75,
+                "rank": 1,
+                "age": 33,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه25%",
+                "educationLevel": "دیپلم",
+                "fieldOfStudy": "فنی حرفه‌ای",
+                "phoneNumber": "09137778899",
+                "address": "اصفهان، خیابان پروین، کوچه آتش‌نشانی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m2.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m1.png",
+                  "otherDocuments": "/path/to/driving_license.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "رضا",
+                "lastName": "محمدی",
+                "fatherName": "علی",
+                "nationalId": "8877665544",
+                "examScore": 72,
+                "rank": 2,
+                "age": 35,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "دیپلم",
+                "fieldOfStudy": "مکانیک خودرو",
+                "phoneNumber": "09137778890",
+                "address": "اصفهان، خیابان امام خمینی، کوچه گلستان",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m5.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_3.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_3.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m13.png",
+                  "otherDocuments": "/path/to/driving_license.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "سازمان آتش‌نشانی و خدمات ایمنی تهران",
+        "jobs": [
+          {
+            "jobName": "آتش‌نشان عملیاتی",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "دارای آمادگی جسمانی بالا، مدرک دوره‌های امداد و نجات",
+              "jobLocation": "تهران، ایستگاه‌های آتش‌نشانی مناطق مختلف",
+              "gender": "مرد",
+              "capacity": 20,
+              "quota": "آزاد/سهمیه",
+              "educationLevel": "کاردانی یا بالاتر",
+              "fieldOfStudy": "کلیه رشته‌ها",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 40,
+              "notReviewed": 40,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "محسن",
+                "lastName": "رضایی",
+                "fatherName": "حسن",
+                "nationalId": "7766554433",
+                "examScore": 85,
+                "rank": 1,
+                "age": 30,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مدیریت امداد",
+                "phoneNumber": "09121112233",
+                "address": "تهران، خیابان آزادی، کوچه بهار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m6.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_4.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_4.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m14.png",
+                  "otherDocuments": "/path/to/rescue_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "علی",
+                "lastName": "کریمی",
+                "fatherName": "محمد",
+                "nationalId": "6655443322",
+                "examScore": 80,
+                "rank": 2,
+                "age": 28,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه5%",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "ایمنی و آتش‌نشانی",
+                "phoneNumber": "09121112234",
+                "address": "تهران، خیابان ولیعصر، کوچه نگار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m7.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_5.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_5.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m15.png",
+                  "otherDocuments": "/path/to/rescue_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "سازمان آتش‌نشانی و خدمات ایمنی شیراز",
+        "jobs": [
+          {
+            "jobName": "آتش‌نشان عملیاتی",
+            "jobDetails": {
+              "province": "فارس",
+              "specificConditions": "دارای آمادگی جسمانی، مدرک دوره‌های کمک‌های اولیه و امداد",
+              "jobLocation": "شیراز، ایستگاه‌های آتش‌نشانی مناطق مختلف",
+              "gender": "مرد",
+              "capacity": 10,
+              "quota": "آزاد",
+              "educationLevel": "کاردانی یا بالاتر",
+              "fieldOfStudy": "کلیه رشته‌ها",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 25,
+              "notReviewed": 25,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "کاوه",
+                "lastName": "احمدی",
+                "fatherName": "رضا",
+                "nationalId": "5544332211",
+                "examScore": 83,
+                "rank": 1,
+                "age": 29,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی ایمنی",
+                "phoneNumber": "09171112233",
+                "address": "شیراز، خیابان زند، کوچه ارم",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m8.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_6.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_6.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m16.png",
+                  "otherDocuments": "/path/to/first_aid_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "سامان",
+                "lastName": "نوروزی",
+                "fatherName": "حسین",
+                "nationalId": "4433221100",
+                "examScore": 79,
+                "rank": 2,
+                "age": 31,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "مدیریت بحران",
+                "phoneNumber": "09171112234",
+                "address": "شیراز، خیابان قصردشت، کوچه بهشت",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m9.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_7.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_7.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m17.png",
+                  "otherDocuments": "/path/to/rescue_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examTitle": "اولین آزمون استخدامی اختصاصی معلولان",
+    "organizations": [
+      {
+        "organizationName": "سازمان بهزیستی کشور",
+        "jobs": [
+          {
+            "jobName": "متصدی امور دفتری",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "معلولیت جسمی-حرکتی با توانایی کار پشت‌میزنشینی",
+              "jobLocation": "تهران، خیابان آزادی",
+              "gender": "مرد/زن",
+              "capacity": 6,
+              "quota": "ویژه معلولین",
+              "educationLevel": "کاردانی یا کارشناسی",
+              "fieldOfStudy": "مدیریت، علوم انسانی، فناوری اطلاعات",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 9,
+              "notReviewed": 9,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "لیلا",
+                "lastName": "موسوی",
+                "fatherName": "فرهاد",
+                "nationalId": "1231231231",
+                "examScore": 88,
+                "rank": 1,
+                "age": 30,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "سهمیه3%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مدیریت بازرگانی",
+                "phoneNumber": "09125556677",
+                "address": "تهران، نارمک، خیابان گلبرگ",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f13.png",
+                  "otherDocuments": "/path/to/disability_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "رضا",
+                "lastName": "احمدی",
+                "fatherName": "محسن",
+                "nationalId": "2342342342",
+                "examScore": 85,
+                "rank": 2,
+                "age": 32,
+                "gender": "مرد",
+                "dutyStatus": "معافیت پزشکی",
+                "quota": "ویژه معلولین",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "فناوری اطلاعات",
+                "phoneNumber": "09125556678",
+                "address": "تهران، خیابان انقلاب، کوچه بهار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m10.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_2.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_2.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m18.png",
+                  "otherDocuments": "/path/to/disability_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "سازمان امور مالیاتی کشور",
+        "jobs": [
+          {
+            "jobName": "اپراتور رایانه",
+            "jobDetails": {
+              "province": "فارس",
+              "specificConditions": "معلولیت بینایی جزئی یا شنوایی، تسلط به نرم‌افزارهای Office",
+              "jobLocation": "شیراز، اداره کل امور مالیاتی",
+              "gender": "مرد/زن",
+              "capacity": 4,
+              "quota": "ویژه معلولین",
+              "educationLevel": "کاردانی یا بالاتر",
+              "fieldOfStudy": "کامپیوتر، فناوری اطلاعات",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 7,
+              "notReviewed": 7,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "امیر",
+                "lastName": "رجبی",
+                "fatherName": "اکبر",
+                "nationalId": "4564564564",
+                "examScore": 79,
+                "rank": 1,
+                "age": 28,
+                "gender": "مرد",
+                "dutyStatus": "معافیت پزشکی",
+                "quota": "سهمیه25%",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "فناوری اطلاعات",
+                "phoneNumber": "09177008899",
+                "address": "شیراز، معالی‌آباد، بلوار شریعتی",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m2.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m9.png",
+                  "otherDocuments": "/path/to/disability_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "نسیم",
+                "lastName": "کریمی",
+                "fatherName": "حسین",
+                "nationalId": "5675675675",
+                "examScore": 82,
+                "rank": 2,
+                "age": 27,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "ویژه معلولین",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی کامپیوتر",
+                "phoneNumber": "09177008890",
+                "address": "شیراز، خیابان زند، کوچه مهر",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f7.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_3.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_3.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f14.png",
+                  "otherDocuments": "/path/to/disability_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "وزارت آموزش و پرورش",
+        "jobs": [
+          {
+            "jobName": "کارشناس مشاوره",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "معلولیت جسمی-حرکتی یا شنوایی، توانایی مشاوره و ارتباط با دانش‌آموزان",
+              "jobLocation": "اصفهان، اداره کل آموزش و پرورش",
+              "gender": "مرد/زن",
+              "capacity": 5,
+              "quota": "ویژه معلولین",
+              "educationLevel": "کارشناسی یا بالاتر",
+              "fieldOfStudy": "روانشناسی، مشاوره",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 8,
+              "notReviewed": 8,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "سارا",
+                "lastName": "رضایی",
+                "fatherName": "محمد",
+                "nationalId": "6786786786",
+                "examScore": 90,
+                "rank": 1,
+                "age": 34,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "ویژه معلولین",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "روانشناسی",
+                "phoneNumber": "09131112235",
+                "address": "اصفهان، خیابان چهارباغ، کوچه بهشت",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f8.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_4.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_4.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f15.png",
+                  "otherDocuments": "/path/to/disability_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "حامد",
+                "lastName": "محمدی",
+                "fatherName": "علی",
+                "nationalId": "7897897897",
+                "examScore": 87,
+                "rank": 2,
+                "age": 31,
+                "gender": "مرد",
+                "dutyStatus": "معافیت پزشکی",
+                "quota": "سهمیه3%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مشاوره",
+                "phoneNumber": "09131112236",
+                "address": "اصفهان، خیابان شیخ صدوق، کوچه گلزار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m11.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_5.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_5.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m19.png",
+                  "otherDocuments": "/path/to/disability_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examTitle": "آزمون بکارگیری نیروی قرارداد کار معین شهرداری‌ها",
+    "organizations": [
+      {
+        "organizationName": "سازمان شهرداری‌ها و دهیاری‌های کشور",
+        "jobs": [
+          {
+            "jobName": "کارشناس عمران شهری",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "تسلط به مقررات ملی ساختمان و نرم‌افزارهای طراحی عمرانی",
+              "jobLocation": "نجف‌آباد، مرکز فنی و عمرانی شهرداری",
+              "gender": "مرد/زن",
+              "capacity": 4,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "مهندسی عمران",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 6,
+              "notReviewed": 6,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "زهرا",
+                "lastName": "شکری",
+                "fatherName": "بهرام",
+                "nationalId": "1010110011",
+                "examScore": 81,
+                "rank": 1,
+                "age": 27,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "سهمیه5%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی عمران",
+                "phoneNumber": "09139874520",
+                "address": "نجف‌آباد، خیابان شریعتی، کوچه 18",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f9.png",
+                  "otherDocuments": "/path/to/civil_engineering_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "محمد",
+                "lastName": "رضایی",
+                "fatherName": "حسین",
+                "nationalId": "3030330033",
+                "examScore": 78,
+                "rank": 2,
+                "age": 29,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی عمران",
+                "phoneNumber": "09139874521",
+                "address": "نجف‌آباد، خیابان امام، کوچه بهار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m12.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_2.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_2.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m20.png",
+                  "otherDocuments": "/path/to/civil_engineering_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "کارشناس فضای سبز",
+            "jobDetails": {
+              "province": "اصفهان",
+              "specificConditions": "آشنایی با اصول طراحی فضای سبز، گل‌کاری و آبیاری هوشمند",
+              "jobLocation": "خمینی‌شهر، اداره فضای سبز",
+              "gender": "مرد/زن",
+              "capacity": 3,
+              "quota": "آزاد",
+              "educationLevel": "کاردانی یا کارشناسی",
+              "fieldOfStudy": "کشاورزی، منابع طبیعی، معماری منظر",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 5,
+              "notReviewed": 5,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "امیرحسین",
+                "lastName": "زارع",
+                "fatherName": "یوسف",
+                "nationalId": "2020202020",
+                "examScore": 76,
+                "rank": 1,
+                "age": 31,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "معماری منظر",
+                "phoneNumber": "09132001234",
+                "address": "خمینی‌شهر، خیابان بعثت، کوچه 12",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m3.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m13.png",
+                  "otherDocuments": "/path/to/landscape_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "فاطمه",
+                "lastName": "محمدی",
+                "fatherName": "علی",
+                "nationalId": "4040440044",
+                "examScore": 74,
+                "rank": 2,
+                "age": 28,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "کشاورزی",
+                "phoneNumber": "09132001235",
+                "address": "خمینی‌شهر، خیابان مطهری، کوچه گلستان",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f9.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_3.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_3.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f16.png",
+                  "otherDocuments": "/path/to/landscape_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "شهرداری تهران",
+        "jobs": [
+          {
+            "jobName": "کارشناس شهرسازی",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "تسلط به نرم‌افزارهای GIS و برنامه‌ریزی شهری",
+              "jobLocation": "تهران، اداره کل شهرسازی",
+              "gender": "مرد/زن",
+              "capacity": 5,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی یا بالاتر",
+              "fieldOfStudy": "شهرسازی، برنامه‌ریزی شهری",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 8,
+              "notReviewed": 8,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "علی",
+                "lastName": "حسینی",
+                "fatherName": "محمد",
+                "nationalId": "5050550055",
+                "examScore": 83,
+                "rank": 1,
+                "age": 30,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "شهرسازی",
+                "phoneNumber": "09121112235",
+                "address": "تهران، خیابان ولیعصر، کوچه نگار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m13.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_4.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_4.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m21.png",
+                  "otherDocuments": "/path/to/gis_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "نرگس",
+                "lastName": "احمدی",
+                "fatherName": "رضا",
+                "nationalId": "6060660066",
+                "examScore": 80,
+                "rank": 2,
+                "age": 29,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "سهمیه3%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "برنامه‌ریزی شهری",
+                "phoneNumber": "09121112236",
+                "address": "تهران، خیابان آزادی، کوچه بهار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f10.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_5.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_5.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f17.png",
+                  "otherDocuments": "/path/to/gis_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "شهرداری شیراز",
+        "jobs": [
+          {
+            "jobName": "کارشناس ترافیک شهری",
+            "jobDetails": {
+              "province": "فارس",
+              "specificConditions": "آشنایی با اصول مهندسی ترافیک و نرم‌افزارهای شبیه‌سازی",
+              "jobLocation": "شیراز، اداره کل ترافیک",
+              "gender": "مرد/زن",
+              "capacity": 3,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی یا بالاتر",
+              "fieldOfStudy": "مهندسی عمران، مهندسی ترافیک",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 6,
+              "notReviewed": 6,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "حسن",
+                "lastName": "کریمی",
+                "fatherName": "اکبر",
+                "nationalId": "7070770077",
+                "examScore": 85,
+                "rank": 1,
+                "age": 32,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی ترافیک",
+                "phoneNumber": "09171112235",
+                "address": "شیراز، خیابان زند، کوچه ارم",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m14.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_6.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_6.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m22.png",
+                  "otherDocuments": "/path/to/traffic_engineering_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "مریم",
+                "lastName": "نوروزی",
+                "fatherName": "حسین",
+                "nationalId": "8080880088",
+                "examScore": 82,
+                "rank": 2,
+                "age": 30,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "مهندسی عمران",
+                "phoneNumber": "09171112236",
+                "address": "شیراز، خیابان قصردشت، کوچه بهشت",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f11.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_7.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_7.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f18.png",
+                  "otherDocuments": "/path/to/traffic_engineering_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examTitle": "آزمون استخدامی شرکت فرودگاه‌ها و ناوبری هوایی ایران",
+    "organizations": [
+      {
+        "organizationName": "وزارت راه و شهرسازی",
+        "jobs": [
+          {
+            "jobName": "کارشناس مراقبت پرواز",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "داشتن سلامت بینایی و شنوایی کامل و آشنایی با زبان انگلیسی تخصصی",
+              "jobLocation": "تهران، فرودگاه مهرآباد",
+              "gender": "مرد/زن",
+              "capacity": 5,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "مهندسی هوافضا، مهندسی برق، مهندسی مکانیک",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 10,
+              "notReviewed": 10,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "مهدی",
+                "lastName": "حسینی",
+                "fatherName": "رضا",
+                "nationalId": "1122334455",
+                "examScore": 87,
+                "rank": 1,
+                "age": 29,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی هوافضا",
+                "phoneNumber": "09121234567",
+                "address": "تهران، شهرک اکباتan، فاز ۲",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m3.png",
+                  "otherDocuments": "/path/to/english_proficiency_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "سارا",
+                "lastName": "محمدی",
+                "fatherName": "حسین",
+                "nationalId": "2233445566",
+                "examScore": 84,
+                "rank": 2,
+                "age": 27,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی برق",
+                "phoneNumber": "09121234568",
+                "address": "تهران، خیابان آزادی، کوچه بهار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f12.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_2.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_2.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f19.png",
+                  "otherDocuments": "/path/to/english_proficiency_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "کارشناس تجهیزات ارتباطی فرودگاهی",
+            "jobDetails": {
+              "province": "خوزستان",
+              "specificConditions": "تسلط بر تجهیزات الکترونیکی و آنتن‌های فرودگاهی، توانایی کار شیفتی",
+              "jobLocation": "فرودگاه اهواز",
+              "gender": "مرد",
+              "capacity": 3,
+              "quota": "سهمیه25%",
+              "educationLevel": "کاردانی یا کارشناسی",
+              "fieldOfStudy": "الکترونیک، مخابرات، برق",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 6,
+              "notReviewed": 6,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "جواد",
+                "lastName": "رحمانی",
+                "fatherName": "صادق",
+                "nationalId": "5566778899",
+                "examScore": 82,
+                "rank": 1,
+                "age": 32,
+                "gender": "مرد",
+                "dutyStatus": "معافیت غیر پزشکی",
+                "quota": "سهمیه25%",
+                "educationLevel": "کاردانی",
+                "fieldOfStudy": "الکترونیک",
+                "phoneNumber": "09168889900",
+                "address": "اهواز، کیان‌پارس، خیابان 15 غربی",
+                "workExperience": "ندارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m3.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m4.png",
+                  "otherDocuments": "/path/to/electronics_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "حسین",
+                "lastName": "کریمی",
+                "fatherName": "محمد",
+                "nationalId": "6677889900",
+                "examScore": 80,
+                "rank": 2,
+                "age": 30,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه25%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مخابرات",
+                "phoneNumber": "09168889901",
+                "address": "اهواز، زیتون کارمندی، خیابان اصلی",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m15.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_3.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_3.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m23.png",
+                  "otherDocuments": "/path/to/electronics_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "شرکت فرودگاه‌های بین‌المللی امام خمینی",
+        "jobs": [
+          {
+            "jobName": "کارشناس عملیات فرودگاهی",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "آشنایی با استانداردهای ایکائو و توانایی هماهنگی عملیات پرواز",
+              "jobLocation": "تهران، فرودگاه بین‌المللی امام خمینی",
+              "gender": "مرد/زن",
+              "capacity": 4,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی یا بالاتر",
+              "fieldOfStudy": "مدیریت هوانوردی، مهندسی صنایع",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 8,
+              "notReviewed": 8,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "نرگس",
+                "lastName": "احمدی",
+                "fatherName": "علی",
+                "nationalId": "7788990011",
+                "examScore": 89,
+                "rank": 1,
+                "age": 31,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "مدیریت هوانوردی",
+                "phoneNumber": "09121112237",
+                "address": "تهران، خیابان ولیعصر، کوچه نگار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f13.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_4.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_4.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f20.png",
+                  "otherDocuments": "/path/to/icao_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "امیر",
+                "lastName": "رضایی",
+                "fatherName": "حسن",
+                "nationalId": "8899001122",
+                "examScore": 86,
+                "rank": 2,
+                "age": 33,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی صنایع",
+                "phoneNumber": "09121112238",
+                "address": "تهران، شهرک غرب، خیابان ایران‌زمین",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m16.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_5.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_5.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m24.png",
+                  "otherDocuments": "/path/to/icao_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "فرودگاه بین‌المللی شهید هاشمی‌نژاد مشهد",
+        "jobs": [
+          {
+            "jobName": "کارشناس ایمنی فرودگاهی",
+            "jobDetails": {
+              "province": "خراسان رضوی",
+              "specificConditions": "آشنایی با استانداردهای ایمنی فرودگاهی و مدیریت ریسک",
+              "jobLocation": "مشهد، فرودگاه بین‌المللی شهید هاشمی‌نژاد",
+              "gender": "مرد/زن",
+              "capacity": 3,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی یا بالاتر",
+              "fieldOfStudy": "مهندسی ایمنی، مدیریت ایمنی",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 6,
+              "notReviewed": 6,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "فاطمه",
+                "lastName": "نوروزی",
+                "fatherName": "محمد",
+                "nationalId": "9900112233",
+                "examScore": 88,
+                "rank": 1,
+                "age": 30,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مهندسی ایمنی",
+                "phoneNumber": "09151112239",
+                "address": "مーバزه، بلوار وکیل‌آباد، خیابان لاله",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f14.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_6.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_6.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f21.png",
+                  "otherDocuments": "/path/to/safety_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "حسن",
+                "lastName": "محمدی",
+                "fatherName": "علی",
+                "nationalId": "0011223344",
+                "examScore": 85,
+                "rank": 2,
+                "age": 32,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "مدیریت ایمنی",
+                "phoneNumber": "09151112240",
+                "address": "مشهد، خیابان احمدآباد، کوچه بهار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m17.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_7.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_7.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m25.png",
+                  "otherDocuments": "/path/to/safety_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "examTitle": "آزمون استخدام نیروی انسانی وزارت امور خارجه جمهوری اسلامی",
+    "organizations": [
+      {
+        "organizationName": "وزارت امور خارجه",
+        "jobs": [
+          {
+            "jobName": "کارشناس امور بین‌الملل",
+            "jobDetails": {
+              "province": "تهران",
+              "specificConditions": "تسلط کامل به زبان انگلیسی و یکی از زبان‌های دوم (فرانسه، عربی، روسی)، سابقه کار مرتبط مزیت محسوب می‌شود",
+              "jobLocation": "تهران، ساختمان وزارت امور خارجه",
+              "gender": "مرد/زن",
+              "capacity": 6,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی ارشد",
+              "fieldOfStudy": "روابط بین‌الملل، علوم سیاسی، حقوق بین‌الملل",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 8,
+              "notReviewed": 8,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "نیلوفر",
+                "lastName": "کاظمی",
+                "fatherName": "احمد",
+                "nationalId": "0099887766",
+                "examScore": 91,
+                "rank": 1,
+                "age": 30,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "روابط بین‌الملل",
+                "phoneNumber": "09121112233",
+                "address": "تهران، سعادت‌آباد، خیابان 24",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f1.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f2.png",
+                  "otherDocuments": "/path/to/language_proficiency_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "علی",
+                "lastName": "رضایی",
+                "fatherName": "محمد",
+                "nationalId": "1122113344",
+                "examScore": 88,
+                "rank": 2,
+                "age": 32,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "حقوق بین‌الملل",
+                "phoneNumber": "09121112234",
+                "address": "تهران، خیابان ولیعصر، کوچه بهار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m18.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_2.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_2.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m26.png",
+                  "otherDocuments": "/path/to/language_proficiency_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          },
+          {
+            "jobName": "کارشناس امور کنسولی",
+            "jobDetails": {
+              "province": "خراسان رضوی",
+              "specificConditions": "توانایی اعزام به ماموریت‌های خارج از کشور، تسلط به قوانین مهاجرت و امور گذرنامه",
+              "jobLocation": "مشهد، دفتر نمایندگی وزارت امور خارجه",
+              "gender": "مرد",
+              "capacity": 4,
+              "quota": "سهمیه3%",
+              "educationLevel": "کارشناسی",
+              "fieldOfStudy": "حقوق، علوم سیاسی، مدیریت دولتی",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 5,
+              "notReviewed": 5,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "سعید",
+                "lastName": "زارعی",
+                "fatherName": "کریم",
+                "nationalId": "3344556677",
+                "examScore": 84,
+                "rank": 1,
+                "age": 33,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه3%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حقوق",
+                "phoneNumber": "09154443322",
+                "address": "مشهد، خیابان احمدآباد، کوچه ۷",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m2.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_1.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_1.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m7.png",
+                  "otherDocuments": "/path/to/consular_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "محسن",
+                "lastName": "حسینی",
+                "fatherName": "حسن",
+                "nationalId": "4455667788",
+                "examScore": 81,
+                "rank": 2,
+                "age": 31,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "سهمیه3%",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "علوم سیاسی",
+                "phoneNumber": "09154443323",
+                "address": "مشهد، بلوار وکیل‌آباد، کوچه ۱۲",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m19.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_3.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_3.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m27.png",
+                  "otherDocuments": "/path/to/consular_certificate.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "سفارت جمهوری اسلامی ایران در ترکیه",
+        "jobs": [
+          {
+            "jobName": "کارشناس روابط دیپلماتیک",
+            "jobDetails": {
+              "province": "خارج از کشور",
+              "specificConditions": "تسلط به زبان ترکی و انگلیسی، تجربه در امور دیپلماتیک",
+              "jobLocation": "آنکارا، سفارت جمهوری اسلامی ایران",
+              "gender": "مرد/زن",
+              "capacity": 3,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی ارشد یا بالاتر",
+              "fieldOfStudy": "روابط بین‌الملل، علوم سیاسی",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 6,
+              "notReviewed": 6,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "فاطمه",
+                "lastName": "محمدی",
+                "fatherName": "علی",
+                "nationalId": "5566778899",
+                "examScore": 90,
+                "rank": 1,
+                "age": 34,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "روابط بین‌الملل",
+                "phoneNumber": "09121112235",
+                "address": "تهران، خیابان انقلاب، کوچه مهر",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f15.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_4.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_4.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f22.png",
+                  "otherDocuments": "/path/to/language_proficiency_turkish.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "امیر",
+                "lastName": "احمدی",
+                "fatherName": "محسن",
+                "nationalId": "6677889900",
+                "examScore": 87,
+                "rank": 2,
+                "age": 36,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی ارشد",
+                "fieldOfStudy": "علوم سیاسی",
+                "phoneNumber": "09121112236",
+                "address": "تهران، شهرک غرب، خیابان ایران‌زمین",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m20.png",
+                  "degreeImage": "/assets/images/persons/degree_master.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_5.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_5.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m28.png",
+                  "otherDocuments": "/path/to/language_proficiency_turkish.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organizationName": "کنسولگری جمهوری اسلامی ایران در دبی",
+        "jobs": [
+          {
+            "jobName": "کارشناس خدمات کنسولی",
+            "jobDetails": {
+              "province": "خارج از کشور",
+              "specificConditions": "تسلط به زبان عربی و انگلیسی، آشنایی با امور کنسولی و مهاجرتی",
+              "jobLocation": "دبی، کنسولگری جمهوری اسلامی ایران",
+              "gender": "مرد/زن",
+              "capacity": 3,
+              "quota": "آزاد",
+              "educationLevel": "کارشناسی یا بالاتر",
+              "fieldOfStudy": "حقوق، مدیریت، علوم سیاسی",
+              "multiplierCapacity": 2
+            },
+            "stats": {
+              "totalCandidates": 5,
+              "notReviewed": 5,
+              "approved": 0,
+              "rejected": 0,
+              "defective": 0,
+              "finalized": 0,
+              "percentage": 0
+            },
+            "candidates": [
+              {
+                "firstName": "زهرا",
+                "lastName": "کریمی",
+                "fatherName": "رضا",
+                "nationalId": "7788990011",
+                "examScore": 89,
+                "rank": 1,
+                "age": 31,
+                "gender": "زن",
+                "dutyStatus": "ندارد",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "مدیریت",
+                "phoneNumber": "09121112237",
+                "address": "تهران، خیابان آزادی، کوچه بهار",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_f16.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_6.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_6.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_f23.png",
+                  "otherDocuments": "/path/to/language_proficiency_arabic.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              },
+              {
+                "firstName": "حسین",
+                "lastName": "نوروزی",
+                "fatherName": "محمد",
+                "nationalId": "8899001122",
+                "examScore": 86,
+                "rank": 2,
+                "age": 33,
+                "gender": "مرد",
+                "dutyStatus": "کارت پایان خدمت",
+                "quota": "آزاد",
+                "educationLevel": "کارشناسی",
+                "fieldOfStudy": "حقوق",
+                "phoneNumber": "09121112238",
+                "address": "تهران، نارمک، خیابان گلبرگ",
+                "workExperience": "دارد",
+                "documents": {
+                  "nationalCardImage": "/assets/images/persons/national_card_m21.png",
+                  "degreeImage": "/assets/images/persons/degree.jpg",
+                  "birthCertificatePage1": "/assets/images/persons/birth_certificate_page1_7.jpg",
+                  "birthCertificatePage2": "/assets/images/persons/birth_certificate_page2_7.jpg",
+                  "personalPhoto": "/assets/images/persons/personal_m29.png",
+                  "otherDocuments": "/path/to/language_proficiency_arabic.pdf"
+                },
+                "image": "",
+                "hasNewSubmission": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

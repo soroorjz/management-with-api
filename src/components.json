@@ -1,0 +1,103 @@
+{
+    "ExamResults": "<div key={result.id} className="exam-results__item">
+                <div className="exam-results__content">
+                  <div className="exam-results__header">
+                    <div className="exam-results__headerTop">
+                      <p className="exam-results__headerDetail title">
+                        {exam.examName || "نامشخص"}
+                      </p>
+                      <p
+                        className={`exam-results__headerDetail status ${
+                          role === "کاربر سازمان اداری و استخدامی" ||
+                          role === "مجری آزمون کتبی"
+                            ? "status--clickable"
+                            : ""
+                        }`}
+                        onClick={() => this.openStatusModal(result)}
+                      >
+                        {status.resultExamStatusName || "نامشخص"}
+                      </p>
+                    </div>
+                    {role !== "مجری آزمون کتبی" && (
+                      <p className="exam-results__headerDetail organizer">
+                        مجری: <span>{organizer.organizerName || "نامشخص"}</span>
+                      </p>
+                    )}
+                    <p className="exam-results__headerDetail exam-results__exam-date">
+                      تاریخ آزمون: <span>{exam.examDate || "نامشخص"}</span>
+                    </p>
+                  </div>
+                  <div className="exam-results__body">
+                    <p className="exam-results__detail">
+                      شرکت‌کنندگان:{" "}
+                      <span>
+                        {result.resultApplicantsCount
+                          ? result.resultApplicantsCount + " نفر"
+                          : "نامشخص"}
+                      </span>
+                    </p>
+                    <p className="exam-results__detail">
+                      دستگاه:{" "}
+                      <span>{executiveBody.executiveBodyName || "نامشخص"}</span>
+                    </p>
+                  </div>
+                  {status.resultExamStatusName === "تأیید شده" && (
+                    <div className="exam-result__date">
+                      <p>
+                        <span className="bold">تاریخ انتشار نتایج </span>
+                        <span>{result.resultExamPublishDate || "نامشخص"}</span>
+                      </p>
+                    </div>
+                  )}
+                  <div className="exam-results__actions">
+                    <div className="exam-results__download-buttons">
+                      <a
+                        href={
+                          "data:@file/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64," +
+                          result.resultExamExcel
+                        }
+                        download={exam.examName + "-نتیجه.xlsx"}
+                        className="exam-results__download-btn results"
+                      >
+                        فایل نتایج
+                        <FaDownload />
+                      </a>
+                      <a
+                        href={
+                          "data:@file/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64," +
+                          result.resultExamDetailsExcel
+                        }
+                        download={exam.examName + "-جزئیات.xlsx"}
+                        className="exam-results__download-btn details"
+                      >
+                        جزئیات نتایج
+                        <FaDownload />
+                      </a>
+                    </div>
+                    {role === "مجری آزمون کتبی" &&
+                      status.resultExamStatusName === "بررسی نشده" && (
+                        <div className="exam-results__edit-delete">
+                          <button
+                            className="exam-results__action-btn edit"
+                            onClick={() => this.handleEdit(result)}
+                          >
+                            ویرایش
+                          </button>
+                          <button
+                            className="exam-results__action-btn delete"
+                            onClick={() => this.handleDelete(result.id)}
+                          >
+                            حذف
+                          </button>
+                        </div>
+                      )}
+                  </div>
+                </div>
+              </div>
+            );
+          })
+        ) : (
+          <p>هیچ نتیجه‌ای یافت نشد</p>
+        )}
+      </div>"
+}
